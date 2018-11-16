@@ -1,7 +1,11 @@
-ceasar cipher solution using the Array#rotate
+# Ceasar Cipher Solution
 
-to run test from cmd line type: 
+### Description
 
-  ruby ceaser_cipher_test
+ - A solution using Array#rotate
+### Test
 
-from current directory.
+To run the full test suite from current directory run the following in the cmd line:
+```sh
+$ ruby ceaser_cipher_test.rb
+```
