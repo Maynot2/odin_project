@@ -1,7 +1,6 @@
 def bubble_sort(ary)
   max_iterations = ary.size - 1
   check_to = -1
-  sorted = false
 
   max_iterations.times do
     sorted = true
